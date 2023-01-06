@@ -1,0 +1,5 @@
+2023-01-02 19:21:27,644 :INFO : Utilities.logger :move to my_account
+2023-01-02 19:21:27,700 :INFO : Utilities.logger :wait for to open menu of my_account until login link display
+2023-01-02 19:21:27,720 :INFO : Utilities.logger :click on login text
+2023-01-02 19:21:28,775 :INFO : Utilities.logger :scroll down page to see login tab 
+2023-01-02 19:21:30,783 :INFO : Utilities.logger :enter valid user name

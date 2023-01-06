@@ -1,0 +1,370 @@
+2023-01-02 19:23:39,931 :INFO : Utilities.logger :move to my_account
+2023-01-02 19:23:39,980 :INFO : Utilities.logger :wait for to open menu of my_account until login link display
+2023-01-02 19:23:40,000 :INFO : Utilities.logger :click on login text
+2023-01-02 19:23:40,991 :INFO : Utilities.logger :scroll down page to see login tab 
+2023-01-02 19:23:43,001 :INFO : Utilities.logger :enter valid user name
+2023-01-02 19:30:44,243 :INFO : test_001 :move to my_account
+2023-01-02 19:30:44,285 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-02 19:30:44,304 :INFO : test_001 :click on login text
+2023-01-02 19:30:44,871 :INFO : test_001 :scroll down page to see login tab 
+2023-01-02 19:30:46,879 :INFO : test_001 :enter valid user name
+2023-01-02 19:43:01,301 :INFO : test_001 :move to my_account
+2023-01-02 19:43:01,363 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-02 19:43:01,384 :INFO : test_001 :click on login text
+2023-01-02 19:43:01,978 :INFO : test_001 :scroll down page to see login tab 
+2023-01-02 19:43:03,988 :INFO : test_001 :enter valid user name
+2023-01-02 19:43:04,128 :INFO : test_001 :enter valid password
+2023-01-02 19:43:04,243 :INFO : test_001 :click on login button
+2023-01-02 19:46:48,474 :INFO : test_001 :move to my_account
+2023-01-02 19:46:48,548 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-02 19:46:48,569 :INFO : test_001 :click on login text
+2023-01-02 19:46:49,273 :INFO : test_001 :scroll down page to see login tab 
+2023-01-02 19:46:51,280 :INFO : test_001 :enter valid user name
+2023-01-02 19:46:51,404 :INFO : test_001 :enter valid password
+2023-01-02 19:46:51,499 :INFO : test_001 :click on login button
+2023-01-03 10:23:07,187 :INFO : test_001 :move to my_account
+2023-01-03 10:23:07,269 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 10:23:07,290 :INFO : test_001 :click on login text
+2023-01-03 10:23:08,387 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 10:23:10,394 :INFO : test_001 :enter valid user name
+2023-01-03 10:23:10,606 :INFO : test_001 :enter valid password
+2023-01-03 10:23:10,702 :INFO : test_001 :click on login button
+2023-01-03 10:48:49,748 :INFO : test_001 :move to my_account
+2023-01-03 10:48:49,829 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 10:48:49,846 :INFO : test_001 :click on login text
+2023-01-03 10:48:50,529 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 10:48:52,542 :INFO : test_001 :enter valid user name
+2023-01-03 10:48:52,694 :INFO : test_001 :enter valid password
+2023-01-03 10:48:52,822 :INFO : test_001 :click on login button
+2023-01-03 10:51:38,808 :INFO : test_001 :move to my_account
+2023-01-03 10:51:38,901 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 10:51:38,922 :INFO : test_001 :click on login text
+2023-01-03 10:51:39,602 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 10:51:41,612 :INFO : test_001 :enter valid user name
+2023-01-03 10:51:41,729 :INFO : test_001 :enter valid password
+2023-01-03 10:51:41,830 :INFO : test_001 :click on login button
+2023-01-03 10:53:49,224 :INFO : test_001 :move to my_account
+2023-01-03 10:53:49,324 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 10:53:49,345 :INFO : test_001 :click on login text
+2023-01-03 10:53:50,022 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 10:53:52,033 :INFO : test_001 :enter valid user name
+2023-01-03 10:53:52,141 :INFO : test_001 :enter valid password
+2023-01-03 10:53:52,257 :INFO : test_001 :click on login button
+2023-01-03 10:59:14,163 :INFO : test_001 :move to my_account
+2023-01-03 10:59:14,221 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 10:59:14,240 :INFO : test_001 :click on login text
+2023-01-03 10:59:14,904 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 10:59:16,910 :INFO : test_001 :enter valid user name
+2023-01-03 10:59:17,017 :INFO : test_001 :enter valid password
+2023-01-03 10:59:17,133 :INFO : test_001 :click on login button
+2023-01-03 11:00:24,987 :INFO : test_001 :move to my_account
+2023-01-03 11:00:25,085 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:00:25,107 :INFO : test_001 :click on login text
+2023-01-03 11:00:25,773 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:00:27,783 :INFO : test_001 :enter valid user name
+2023-01-03 11:00:27,956 :INFO : test_001 :enter valid password
+2023-01-03 11:00:28,052 :INFO : test_001 :click on login button
+2023-01-03 11:01:42,623 :INFO : test_001 :move to my_account
+2023-01-03 11:01:42,688 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:01:42,708 :INFO : test_001 :click on login text
+2023-01-03 11:01:43,379 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:01:45,390 :INFO : test_001 :enter valid user name
+2023-01-03 11:01:45,532 :INFO : test_001 :enter valid password
+2023-01-03 11:01:45,662 :INFO : test_001 :click on login button
+2023-01-03 11:22:10,583 :INFO : test_001 :first test case start
+2023-01-03 11:22:10,583 :INFO : test_001 :move to my_account
+2023-01-03 11:22:10,678 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:22:10,699 :INFO : test_001 :click on login text
+2023-01-03 11:22:11,371 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:22:13,379 :INFO : test_001 :enter valid user name
+2023-01-03 11:22:13,494 :INFO : test_001 :enter valid password
+2023-01-03 11:22:13,596 :INFO : test_001 :click on login button
+2023-01-03 11:22:14,219 :INFO : test_001 :Test case pass
+2023-01-03 11:22:22,859 :INFO : test_002 :move to my_account
+2023-01-03 11:22:23,026 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:22:23,050 :INFO : test_002 :click on login text
+2023-01-03 11:22:23,695 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:22:25,704 :INFO : test_002 :enter valid user name
+2023-01-03 11:22:25,884 :INFO : test_002 :enter invalid password
+2023-01-03 11:22:25,966 :INFO : test_002 :click on login button
+2023-01-03 11:22:26,572 :INFO : test_002 :test case pass
+2023-01-03 11:22:34,179 :INFO : test_003 :move to my_account
+2023-01-03 11:22:34,304 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:22:34,318 :INFO : test_003 :click on login text
+2023-01-03 11:22:34,965 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:22:36,985 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:22:37,117 :INFO : test_003 :enter valid password
+2023-01-03 11:22:37,234 :INFO : test_003 :click login_button
+2023-01-03 11:22:37,936 :INFO : test_003 :pass
+2023-01-03 11:23:39,679 :INFO : test_001 :first test case start
+2023-01-03 11:23:39,679 :INFO : test_001 :move to my_account
+2023-01-03 11:23:39,748 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:23:39,766 :INFO : test_001 :click on login text
+2023-01-03 11:23:40,428 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:23:42,437 :INFO : test_001 :enter valid user name
+2023-01-03 11:23:42,614 :INFO : test_001 :enter valid password
+2023-01-03 11:23:42,701 :INFO : test_001 :click on login button
+2023-01-03 11:23:44,285 :INFO : test_001 :Test case pass
+2023-01-03 11:23:53,124 :INFO : test_002 :move to my_account
+2023-01-03 11:23:53,252 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:23:53,276 :INFO : test_002 :click on login text
+2023-01-03 11:23:54,022 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:23:56,030 :INFO : test_002 :enter valid user name
+2023-01-03 11:23:56,213 :INFO : test_002 :enter invalid password
+2023-01-03 11:23:56,323 :INFO : test_002 :click on login button
+2023-01-03 11:23:56,907 :INFO : test_002 :test case pass
+2023-01-03 11:24:04,920 :INFO : test_003 :move to my_account
+2023-01-03 11:24:05,008 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:24:05,024 :INFO : test_003 :click on login text
+2023-01-03 11:24:05,718 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:24:07,726 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:24:07,905 :INFO : test_003 :enter valid password
+2023-01-03 11:24:08,025 :INFO : test_003 :click login_button
+2023-01-03 11:24:08,657 :INFO : test_003 :pass
+2023-01-03 11:42:58,032 :INFO : test_001 :first test case start
+2023-01-03 11:42:58,033 :INFO : test_001 :move to my_account
+2023-01-03 11:42:58,127 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:42:58,148 :INFO : test_001 :click on login text
+2023-01-03 11:42:58,795 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:43:00,803 :INFO : test_001 :enter valid user name
+2023-01-03 11:43:00,907 :INFO : test_001 :enter valid password
+2023-01-03 11:43:01,023 :INFO : test_001 :click on login button
+2023-01-03 11:43:01,618 :INFO : test_001 :Test case pass
+2023-01-03 11:43:10,415 :INFO : test_002 :move to my_account
+2023-01-03 11:43:10,487 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:43:10,513 :INFO : test_002 :click on login text
+2023-01-03 11:43:11,771 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:43:13,779 :INFO : test_002 :enter valid user name
+2023-01-03 11:43:13,933 :INFO : test_002 :enter invalid password
+2023-01-03 11:43:14,023 :INFO : test_002 :click on login button
+2023-01-03 11:43:14,587 :INFO : test_002 :test case pass
+2023-01-03 11:43:23,383 :INFO : test_003 :move to my_account
+2023-01-03 11:43:23,497 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:43:23,518 :INFO : test_003 :click on login text
+2023-01-03 11:43:24,157 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:43:26,170 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:43:26,329 :INFO : test_003 :enter valid password
+2023-01-03 11:43:26,431 :INFO : test_003 :click login_button
+2023-01-03 11:43:27,037 :INFO : test_003 :pass
+2023-01-03 11:45:35,172 :INFO : test_001 :first test case start
+2023-01-03 11:45:35,172 :INFO : test_001 :move to my_account
+2023-01-03 11:45:35,252 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:45:35,277 :INFO : test_001 :click on login text
+2023-01-03 11:45:35,924 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:45:37,934 :INFO : test_001 :enter valid user name
+2023-01-03 11:45:38,033 :INFO : test_001 :enter valid password
+2023-01-03 11:45:38,134 :INFO : test_001 :click on login button
+2023-01-03 11:45:47,803 :INFO : test_002 :move to my_account
+2023-01-03 11:45:47,875 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:45:47,904 :INFO : test_002 :click on login text
+2023-01-03 11:45:48,544 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:45:50,552 :INFO : test_002 :enter valid user name
+2023-01-03 11:45:50,642 :INFO : test_002 :enter invalid password
+2023-01-03 11:45:50,749 :INFO : test_002 :click on login button
+2023-01-03 11:45:51,361 :INFO : test_002 :test case pass
+2023-01-03 11:46:04,969 :INFO : test_003 :move to my_account
+2023-01-03 11:46:05,065 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:46:05,094 :INFO : test_003 :click on login text
+2023-01-03 11:46:05,791 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:46:07,804 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:46:07,977 :INFO : test_003 :enter valid password
+2023-01-03 11:46:08,104 :INFO : test_003 :click login_button
+2023-01-03 11:46:08,720 :INFO : test_003 :pass
+2023-01-03 11:49:27,850 :INFO : test_001 :first test case start
+2023-01-03 11:49:27,850 :INFO : test_001 :move to my_account
+2023-01-03 11:49:27,920 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:49:27,939 :INFO : test_001 :click on login text
+2023-01-03 11:49:28,608 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:49:30,617 :INFO : test_001 :enter valid user name
+2023-01-03 11:49:30,759 :INFO : test_001 :enter valid password
+2023-01-03 11:49:30,876 :INFO : test_001 :click on login button
+2023-01-03 11:49:40,634 :INFO : test_002 :move to my_account
+2023-01-03 11:49:40,782 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:49:40,804 :INFO : test_002 :click on login text
+2023-01-03 11:49:41,454 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:49:43,470 :INFO : test_002 :enter valid user name
+2023-01-03 11:49:43,606 :INFO : test_002 :enter invalid password
+2023-01-03 11:49:43,683 :INFO : test_002 :click on login button
+2023-01-03 11:49:44,375 :INFO : test_002 :test case pass
+2023-01-03 11:49:54,695 :INFO : test_003 :move to my_account
+2023-01-03 11:49:54,846 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:49:54,887 :INFO : test_003 :click on login text
+2023-01-03 11:49:55,566 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:49:57,574 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:49:57,759 :INFO : test_003 :enter valid password
+2023-01-03 11:49:57,840 :INFO : test_003 :click login_button
+2023-01-03 11:49:59,424 :INFO : test_003 :pass
+2023-01-03 11:50:43,866 :INFO : test_001 :first test case start
+2023-01-03 11:50:43,867 :INFO : test_001 :move to my_account
+2023-01-03 11:50:43,955 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:50:43,972 :INFO : test_001 :click on login text
+2023-01-03 11:50:46,395 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:50:48,405 :INFO : test_001 :enter valid user name
+2023-01-03 11:50:48,544 :INFO : test_001 :enter valid password
+2023-01-03 11:50:48,667 :INFO : test_001 :click on login button
+2023-01-03 11:51:01,117 :INFO : test_002 :move to my_account
+2023-01-03 11:51:01,166 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:51:01,188 :INFO : test_002 :click on login text
+2023-01-03 11:51:01,746 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:51:03,752 :INFO : test_002 :enter valid user name
+2023-01-03 11:51:03,847 :INFO : test_002 :enter invalid password
+2023-01-03 11:51:03,937 :INFO : test_002 :click on login button
+2023-01-03 11:51:04,803 :INFO : test_002 :test case pass
+2023-01-03 11:51:13,191 :INFO : test_003 :move to my_account
+2023-01-03 11:51:13,317 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:51:13,386 :INFO : test_003 :click on login text
+2023-01-03 11:51:14,600 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:51:16,608 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:51:16,720 :INFO : test_003 :enter valid password
+2023-01-03 11:51:16,826 :INFO : test_003 :click login_button
+2023-01-03 11:51:17,652 :INFO : test_003 :pass
+2023-01-03 11:54:51,751 :INFO : test_001 :first test case start
+2023-01-03 11:54:51,751 :INFO : test_001 :move to my_account
+2023-01-03 11:54:51,808 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 11:54:51,825 :INFO : test_001 :click on login text
+2023-01-03 11:54:52,891 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 11:54:54,899 :INFO : test_001 :enter valid user name
+2023-01-03 11:54:55,008 :INFO : test_001 :enter valid password
+2023-01-03 11:54:55,121 :INFO : test_001 :click on login button
+2023-01-03 11:54:57,723 :INFO : test_001 :Test case pass
+2023-01-03 11:55:08,486 :INFO : test_002 :move to my_account
+2023-01-03 11:55:08,618 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 11:55:08,636 :INFO : test_002 :click on login text
+2023-01-03 11:55:09,356 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 11:55:11,364 :INFO : test_002 :enter valid user name
+2023-01-03 11:55:11,515 :INFO : test_002 :enter invalid password
+2023-01-03 11:55:11,623 :INFO : test_002 :click on login button
+2023-01-03 11:55:12,242 :INFO : test_002 :test case pass
+2023-01-03 11:55:22,789 :INFO : test_003 :move to my_account
+2023-01-03 11:55:22,905 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 11:55:22,922 :INFO : test_003 :click on login text
+2023-01-03 11:55:23,569 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 11:55:25,583 :INFO : test_003 :enter Invalid user name
+2023-01-03 11:55:25,734 :INFO : test_003 :enter valid password
+2023-01-03 11:55:25,841 :INFO : test_003 :click login_button
+2023-01-03 11:55:27,364 :INFO : test_003 :pass
+2023-01-03 16:11:11,598 :INFO : test_001 :first test case start
+2023-01-03 16:11:11,599 :INFO : test_001 :move to my_account
+2023-01-03 16:11:11,652 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-03 16:11:11,671 :INFO : test_001 :click on login text
+2023-01-03 16:11:12,641 :INFO : test_001 :scroll down page to see login tab 
+2023-01-03 16:11:14,650 :INFO : test_001 :enter valid user name
+2023-01-03 16:11:14,813 :INFO : test_001 :enter valid password
+2023-01-03 16:11:14,928 :INFO : test_001 :click on login button
+2023-01-03 16:11:27,338 :INFO : test_001 :Test case pass
+2023-01-03 16:11:35,244 :INFO : test_002 :move to my_account
+2023-01-03 16:11:35,320 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-03 16:11:35,337 :INFO : test_002 :click on login text
+2023-01-03 16:11:35,982 :INFO : test_002 :scroll down page to see login tab 
+2023-01-03 16:11:37,990 :INFO : test_002 :enter valid user name
+2023-01-03 16:11:38,138 :INFO : test_002 :enter invalid password
+2023-01-03 16:11:38,227 :INFO : test_002 :click on login button
+2023-01-03 16:11:39,901 :INFO : test_002 :test case pass
+2023-01-03 16:11:52,709 :INFO : test_003 :move to my_account
+2023-01-03 16:11:52,782 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-03 16:11:52,810 :INFO : test_003 :click on login text
+2023-01-03 16:11:54,625 :INFO : test_003 :scroll down page to see login tab 
+2023-01-03 16:11:56,646 :INFO : test_003 :enter Invalid user name
+2023-01-03 16:11:56,751 :INFO : test_003 :enter valid password
+2023-01-03 16:11:56,858 :INFO : test_003 :click login_button
+2023-01-03 16:11:58,130 :INFO : test_003 :pass
+2023-01-04 09:54:41,490 :INFO : test_001 :first test case start
+2023-01-04 09:54:41,490 :INFO : test_001 :move to my_account
+2023-01-04 09:54:41,571 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-04 09:54:41,593 :INFO : test_001 :click on login text
+2023-01-04 09:54:42,235 :INFO : test_001 :scroll down page to see login tab 
+2023-01-04 09:54:44,246 :INFO : test_001 :enter valid user name
+2023-01-04 09:54:44,386 :INFO : test_001 :enter valid password
+2023-01-04 09:54:44,484 :INFO : test_001 :click on login button
+2023-01-04 09:54:47,143 :INFO : test_001 :Test case pass
+2023-01-04 09:54:55,933 :INFO : test_002 :move to my_account
+2023-01-04 09:54:56,000 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-04 09:54:56,022 :INFO : test_002 :click on login text
+2023-01-04 09:54:56,655 :INFO : test_002 :scroll down page to see login tab 
+2023-01-04 09:54:58,665 :INFO : test_002 :enter valid user name
+2023-01-04 09:54:58,780 :INFO : test_002 :enter invalid password
+2023-01-04 09:54:58,886 :INFO : test_002 :click on login button
+2023-01-04 09:54:59,596 :INFO : test_002 :test case pass
+2023-01-04 09:55:07,524 :INFO : test_003 :move to my_account
+2023-01-04 09:55:07,602 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-04 09:55:07,642 :INFO : test_003 :click on login text
+2023-01-04 09:55:08,362 :INFO : test_003 :scroll down page to see login tab 
+2023-01-04 09:55:10,369 :INFO : test_003 :enter Invalid user name
+2023-01-04 09:55:10,541 :INFO : test_003 :enter valid password
+2023-01-04 09:55:10,660 :INFO : test_003 :click login_button
+2023-01-04 09:55:11,861 :INFO : test_003 :pass
+2023-01-05 12:03:25,533 :INFO : test_001 :first test case start
+2023-01-05 12:03:25,534 :INFO : test_001 :move to my_account
+2023-01-05 12:03:25,582 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-05 12:03:25,599 :INFO : test_001 :click on login text
+2023-01-05 12:03:26,169 :INFO : test_001 :scroll down page to see login tab 
+2023-01-05 12:03:28,177 :INFO : test_001 :enter valid user name
+2023-01-05 12:03:28,323 :INFO : test_001 :enter valid password
+2023-01-05 12:03:28,428 :INFO : test_001 :click on login button
+2023-01-05 12:03:31,017 :INFO : test_001 :Test case pass
+2023-01-05 12:03:39,673 :INFO : test_002 :move to my_account
+2023-01-05 12:03:39,718 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-05 12:03:39,734 :INFO : test_002 :click on login text
+2023-01-05 12:03:40,327 :INFO : test_002 :scroll down page to see login tab 
+2023-01-05 12:03:42,334 :INFO : test_002 :enter valid user name
+2023-01-05 12:03:42,441 :INFO : test_002 :enter invalid password
+2023-01-05 12:03:42,538 :INFO : test_002 :click on login button
+2023-01-05 12:03:43,164 :INFO : test_002 :test case pass
+2023-01-05 12:03:52,538 :INFO : test_003 :move to my_account
+2023-01-05 12:03:52,583 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-05 12:03:52,598 :INFO : test_003 :click on login text
+2023-01-05 12:03:53,274 :INFO : test_003 :scroll down page to see login tab 
+2023-01-05 12:03:55,282 :INFO : test_003 :enter Invalid user name
+2023-01-05 12:03:55,386 :INFO : test_003 :enter valid password
+2023-01-05 12:03:55,490 :INFO : test_003 :click login_button
+2023-01-05 12:03:56,110 :INFO : test_003 :pass
+2023-01-06 10:51:23,613 :INFO : test_001 :first test case start
+2023-01-06 10:51:23,615 :INFO : test_001 :move to my_account
+2023-01-06 10:51:23,767 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-06 10:51:23,786 :INFO : test_001 :click on login text
+2023-01-06 10:51:25,217 :INFO : test_001 :scroll down page to see login tab 
+2023-01-06 10:51:27,227 :INFO : test_001 :enter valid user name
+2023-01-06 10:51:27,357 :INFO : test_001 :enter valid password
+2023-01-06 10:51:27,459 :INFO : test_001 :click on login button
+2023-01-06 10:51:30,385 :INFO : test_001 :Test case pass
+2023-01-06 10:51:39,944 :INFO : test_002 :move to my_account
+2023-01-06 10:51:40,095 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-06 10:51:40,120 :INFO : test_002 :click on login text
+2023-01-06 10:51:40,798 :INFO : test_002 :scroll down page to see login tab 
+2023-01-06 10:51:42,806 :INFO : test_002 :enter valid user name
+2023-01-06 10:51:42,927 :INFO : test_002 :enter invalid password
+2023-01-06 10:51:43,032 :INFO : test_002 :click on login button
+2023-01-06 10:51:43,720 :INFO : test_002 :test case pass
+2023-01-06 10:51:52,103 :INFO : test_003 :move to my_account
+2023-01-06 10:51:52,174 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-06 10:51:52,198 :INFO : test_003 :click on login text
+2023-01-06 10:51:52,849 :INFO : test_003 :scroll down page to see login tab 
+2023-01-06 10:51:54,861 :INFO : test_003 :enter Invalid user name
+2023-01-06 10:51:55,023 :INFO : test_003 :enter valid password
+2023-01-06 10:51:55,121 :INFO : test_003 :click login_button
+2023-01-06 10:51:55,873 :INFO : test_003 :pass
+2023-01-06 10:56:39,295 :INFO : test_001 :first test case start
+2023-01-06 10:56:39,295 :INFO : test_001 :move to my_account
+2023-01-06 10:56:39,373 :INFO : test_001 :wait for to open menu of my_account until login link display
+2023-01-06 10:56:39,391 :INFO : test_001 :click on login text
+2023-01-06 10:56:40,063 :INFO : test_001 :scroll down page to see login tab 
+2023-01-06 10:56:42,074 :INFO : test_001 :enter valid user name
+2023-01-06 10:56:42,225 :INFO : test_001 :enter valid password
+2023-01-06 10:56:42,320 :INFO : test_001 :click on login button
+2023-01-06 10:56:44,924 :INFO : test_001 :Test case pass
+2023-01-06 10:56:59,422 :INFO : test_002 :move to my_account
+2023-01-06 10:56:59,505 :INFO : test_002 :wait for to open menu of my_account until login link display
+2023-01-06 10:56:59,523 :INFO : test_002 :click on login text
+2023-01-06 10:57:00,247 :INFO : test_002 :scroll down page to see login tab 
+2023-01-06 10:57:02,257 :INFO : test_002 :enter valid user name
+2023-01-06 10:57:02,376 :INFO : test_002 :enter invalid password
+2023-01-06 10:57:02,481 :INFO : test_002 :click on login button
+2023-01-06 10:57:03,058 :INFO : test_002 :test case pass
+2023-01-06 10:57:11,152 :INFO : test_003 :move to my_account
+2023-01-06 10:57:11,220 :INFO : test_003 :wait for to open menu of my_account until login link display
+2023-01-06 10:57:11,246 :INFO : test_003 :click on login text
+2023-01-06 10:57:11,891 :INFO : test_003 :scroll down page to see login tab 
+2023-01-06 10:57:13,897 :INFO : test_003 :enter Invalid user name
+2023-01-06 10:57:14,055 :INFO : test_003 :enter valid password
+2023-01-06 10:57:14,181 :INFO : test_003 :click login_button
+2023-01-06 10:57:14,818 :INFO : test_003 :pass
